@@ -1,5 +1,12 @@
 # Asynchronous Denoising Diffusion Models for Aligning Text-to-Image Generation
 
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arxiv-2510.04504-b31b1b)](https://arxiv.org/abs/2510.04504)&nbsp;
+[![code](https://img.shields.io/badge/code-AsynDM-blue)](https://github.com/hu-zijing/AsynDM)&nbsp;
+
+</div>
+
 <p align="center">
 <img src="assets/AsynDM.png" width=90%>
 <p>
